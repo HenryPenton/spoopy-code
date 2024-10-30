@@ -1,0 +1,72 @@
+[
+  {
+    "Villager_ID": "1",
+    "name": "Elena Wraithwood",
+    "birthDate": "1780-03-14",
+    "deathDate": "1845-09-04",
+    "events": "Harvest Moon Ritual (1815), Blood Moon Gathering (1837), Eternal Night Vigil (1845)"
+  },
+  {
+    "Villager_ID": "2",
+    "name": "Thaddeus Blackwell",
+    "birthDate": "1765-11-22",
+    "deathDate": "1821-11-22",
+    "events": "Eternal Night Vigil (1816), Whispers of the Ancients (1815)"
+  },
+  {
+    "Villager_ID": "3",
+    "name": "Ophelia Nightshade",
+    "birthDate": "1792-04-06",
+    "deathDate": "1815-04-06",
+    "events": "Winter Solstice Offering (1793)"
+  },
+  {
+    "Villager_ID": "4",
+    "name": "Mordecai Grimm",
+    "birthDate": "1778-09-17",
+    "deathDate": "1853-09-17",
+    "events": "None"
+  },
+  {
+    "Villager_ID": "5",
+    "name": "Isabella Crowe",
+    "birthDate": "1769-01-20",
+    "deathDate": "1823-10-27",
+    "events": "Festival of Shadows (1823), Blood Moon Gathering (1791)"
+  },
+  {
+    "Villager_ID": "6",
+    "name": "Lysander Shade",
+    "birthDate": "1755-10-10",
+    "deathDate": "1835-10-10",
+    "events": "Festival of Shadows (1795), Rite of the Serpent (1832), Eclipse of Souls (1828), Eternal Night Vigil (1793), Whispers of the Ancients (1815)"
+  },
+  {
+    "Villager_ID": "7",
+    "name": "Raven Willow",
+    "birthDate": "1802-07-04",
+    "deathDate": "1848-07-04",
+    "events": "Harvest Moon Ritual (1809), Festival of the Veil (1817), Eternal Night Vigil (1813), Whispers of the Ancients (1827)"
+  },
+  {
+    "Villager_ID": "8",
+    "name": "Ezra Darkmoor",
+    "birthDate": "1788-12-12",
+    "deathDate": "1805-06-22",
+    "events": "Summer Solstice Sacrifice (1805), Blood Moon Gathering (1795), Eternal Night Vigil (1791)"
+  },
+  {
+    "Villager_ID": "9",
+    "name": "Lucinda Mournvale",
+    "birthDate": "1764-02-18",
+    "deathDate": "1799-11-18",
+    "events": "Festival of the Veil (1770), Eclipse of Souls (1794), Blood Moon Gathering (1799), Whispers of the Ancients (1768)"
+  },
+  {
+    "Villager_ID": "10",
+    "name": "Cassius Thorne",
+    "birthDate": "1773-05-30",
+    "deathDate": "1812-05-30",
+    "events": "Eclipse of Souls (1794), Blood Moon Gathering (1798), Eternal Night Vigil (1779)"
+  }
+]

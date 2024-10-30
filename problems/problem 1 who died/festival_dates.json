@@ -1,0 +1,57 @@
+[
+    {
+        "FestivalName": "Festival of Shadows",
+        "StartDate": "15-10",
+        "EndDate": "31-10"
+    },
+    {
+        "FestivalName": "Summer Solstice Sacrifice",
+        "StartDate": "15-06",
+        "EndDate": "25-06"
+    },
+    {
+        "FestivalName": "Rite of the Serpent",
+        "StartDate": "01-08",
+        "EndDate": "10-08"
+    },
+    {
+        "FestivalName": "Winter Solstice Offering",
+        "StartDate": "15-12",
+        "EndDate": "25-12"
+    },
+    {
+        "FestivalName": "Harvest Moon Ritual",
+        "StartDate": "20-09",
+        "EndDate": "30-09"
+    },
+    {
+        "FestivalName": "Festival of the Veil",
+        "StartDate": "01-10",
+        "EndDate": "14-10"
+    },
+    {
+        "FestivalName": "Eclipse of Souls",
+        "StartDate": "20-04",
+        "EndDate": "28-04"
+    },
+    {
+        "FestivalName": "Blood Moon Gathering",
+        "StartDate": "01-09",
+        "EndDate": "10-09"
+    },
+    {
+        "FestivalName": "Raven's Requiem",
+        "StartDate": "15-11",
+        "EndDate": "30-11"
+    },
+    {
+        "FestivalName": "Eternal Night Vigil",
+        "StartDate": "01-01",
+        "EndDate": "07-01"
+    },
+    {
+        "FestivalName": "Whispers of the Ancients",
+        "StartDate": "01-03",
+        "EndDate": "10-03"
+    }
+]
