@@ -10,5 +10,5 @@ Work out which of the villagers passed away during a festival.
 
 ## Extra info
 
-Birth and death dates are in YYYY-MM-DD format
-Festival dates are in DD-MM format
+- Birth and death dates are in YYYY-MM-DD format
+- Festival dates are in DD-MM format
