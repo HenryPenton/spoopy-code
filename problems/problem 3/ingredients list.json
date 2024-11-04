@@ -35,7 +35,7 @@
     "Date": "1845-07-16"
   },
   {
-    "Name": "Graveyard Dew",
+    "Potion Item": "Graveyard Dew",
     "Date": "1830-10-20",
     "Location Found": "Eldritch Library"
   },
@@ -95,7 +95,7 @@
     "Date": "1812-11-02"
   },
   {
-    "Name": "Bat Wing Fragment",
+    "Potion Item": "Bat Wing Fragment",
     "Date": "1827-07-27",
     "Location Found": "Foggy Bridge"
   },
@@ -165,7 +165,7 @@
     "Date": "1830-12-19"
   },
   {
-    "Name": "Vortex Vine",
+    "Potion Item": "Vortex Vine",
     "Date": "1824-03-19",
     "Location Found": "Foggy Bridge"
   },
@@ -185,7 +185,7 @@
     "Date": "1846-09-26"
   },
   {
-    "Name": "Nightshade Elixir",
+    "Potion Item": "Nightshade Elixir",
     "Date": "1826-03-19",
     "Location Found": "The Forgotten Inn"
   },
@@ -315,7 +315,7 @@
     "Date": "1814-01-12"
   },
   {
-    "Name": "Dragon's Breath",
+    "Potion Item": "Dragon's Breath",
     "Date": "1846-09-26",
     "Location Found": "The Forgotten Inn"
   },
@@ -390,12 +390,12 @@
     "Date": "1768-09-02"
   },
   {
-    "Name": "Cursed Clover",
+    "Potion Item": "Cursed Clover",
     "Date": "1850-04-12",
     "Location Found": "Gloomy Lighthouse"
   },
   {
-    "Name": "Shade of Dusk",
+    "Potion Item": "Shade of Dusk",
     "Date": "1830-06-17",
     "Location Found": "Mystic Market"
   },
@@ -585,7 +585,7 @@
     "Date": "1812-11-02"
   },
   {
-    "Name": "Witchfire Wax",
+    "Potion Item": "Witchfire Wax",
     "Date": "1812-11-02",
     "Location Found": "Moonlit Meadow"
   },
@@ -640,7 +640,7 @@
     "Date": "1776-07-23"
   },
   {
-    "Name": "Eternal Nightshade",
+    "Potion Item": "Eternal Nightshade",
     "Date": "1812-12-02",
     "Location Found": "Eldritch Library"
   },
@@ -945,7 +945,7 @@
     "Date": "1857-01-23"
   },
   {
-    "Name": "Mandrake Essence",
+    "Potion Item": "Mandrake Essence",
     "Date": "1829-02-22",
     "Location Found": "Shadowed Alley"
   },
@@ -980,12 +980,12 @@
     "Date": "1849-03-19"
   },
   {
-    "Name": "Phoenix Ash",
+    "Potion Item": "Phoenix Ash",
     "Date": "1811-10-02",
     "Location Found": "Crimson Tavern"
   },
   {
-    "Name": "Midnight Bloom",
+    "Potion Item": "Midnight Bloom",
     "Date": "1851-11-17",
     "Location Found": "Wraithstone Cemetery"
   },
@@ -1055,7 +1055,7 @@
     "Date": "1844-01-21"
   },
   {
-    "Name": "Blood of the Ancients",
+    "Potion Item": "Blood of the Ancients",
     "Date": "1807-06-02",
     "Location Found": "Wraithstone Cemetery"
   },
@@ -1065,7 +1065,7 @@
     "Date": "1774-12-06"
   },
   {
-    "Name": "Dire Lily",
+    "Potion Item": "Dire Lily",
     "Date": "1830-12-19",
     "Location Found": "Foggy Bridge"
   },
@@ -1335,7 +1335,7 @@
     "Date": "1824-03-19"
   },
   {
-    "Name": "Chilled Ember",
+    "Potion Item": "Chilled Ember",
     "Date": "1849-11-11",
     "Location Found": "Whispering Woods"
   }
